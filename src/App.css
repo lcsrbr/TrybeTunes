@@ -4,6 +4,11 @@ body {
   color: white;
 }
 
+.grey {
+  color: grey;
+  text-align: center;
+}
+
 .loginPage {
   position: absolute;
   left: 50%;

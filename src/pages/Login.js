@@ -57,6 +57,7 @@ class Login extends Component {
             name="loginName"
             type="text"
           />
+          <p className="grey">ex: Michael Scott</p>
         </label>
         <p />
         <button
